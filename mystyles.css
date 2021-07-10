@@ -1,0 +1,58 @@
+h1{
+  font-family: 'Bona Nova', 'serif';
+  font-weight: bold;
+  text-decoration:underline;
+ }
+/*container-fluid {
+  padding-left: 10px;
+  padding-right: 0;
+ } */
+ table,td,th{
+  font-family: 'serif';  
+  border: 1px solid #ddd;
+  text-align: left;
+  left: 40px;
+ }
+ h3{
+  font-family: 'Bona Nova', 'serif';
+  font-weight:bold;
+  color:#f2f2f2;
+  text-align:left;
+ }
+ h4{
+  font-family:'Courgette', cursive;
+  text-align:left;
+  color:FireBrick;
+ }
+#logo{
+position: absolute;
+left: 10px;
+top: 5px;
+font-size:1px;
+margin-top:5px;
+margin-right:10px;
+}
+.navbar-nav{
+  position:absolute;
+    right: 10px;
+    top: 20px;
+ }
+.container-fluid {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top:60px;
+}
+
+.nav-item{
+ padding-left:10px;
+ font-size: 1.5rem;
+}
+#contact{
+font-family:'Bona Nova', 'serif';
+ color:DodgerBlue;
+}
+
+
+
+
+	 

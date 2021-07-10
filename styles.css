@@ -1,0 +1,37 @@
+body {
+  background-image:url("https://st4.depositphotos.com/1079673/20043/i/1600/depositphotos_200437116-stock-photo-donation-concept-glass-dollars-white.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+   padding: 2px;
+}
+
+h1{ 
+  text-align: center;
+  padding: 0px 20px 60px 40px;
+  text-decoration: underline;
+  font-weight: bold;
+  font-size:30px;
+} 
+ p {
+  font-family: 'Bona Nova', 'serif';
+  text-align:right;
+  text-align-last:start;
+  font-weight: bold;
+  padding: 0px 0px 300px 800px;
+  font-size:30px;
+ }
+ .navbar-nav{
+  position:absolute;
+    right: 10px;
+    top: 10px;
+ }
+ .container-fluid {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top:60px;
+}
+ .nav-item{
+ padding-left:10px;
+ font-size: 1.5rem;
+}
+
